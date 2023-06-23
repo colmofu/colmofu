@@ -1,4 +1,4 @@
-# colomofu
+# colmofu
 
 <h1 align="center">Hi 👋, I'm Colm</h1>
 <h3 align="center">A passionate data analyst in Berlin</h3>
