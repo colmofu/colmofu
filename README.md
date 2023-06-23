@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **deliberAIde**: https://github.com/saaltrecker/deliberAIde
 
-- 🌱 I’m currently learning **react.js, SQL, and further developing my python skills.**
+- 🌱 I’m currently learning **react.js and SQL**, while further developing my **python** skills.
 
-- 👯 I’m looking to collaborate on **projects concerning data, web development, and social good.**
+- 👯 I’m looking to collaborate on **projects concerning data, web development, and social or individual good.**
 
-- 📫 How to reach me **cofuarthain@gmail.com**
+- 📫 How to reach me: **cofuarthain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
