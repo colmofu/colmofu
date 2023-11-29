@@ -1,11 +1,9 @@
 # colmofu
 
 <h1 align="center">Hi 👋, I'm Colm</h1>
-<h3 align="center">A passionate data analyst in Berlin</h3>
+<h3 align="center">A passionate data scientist in Berlin</h3>
 
-- 🔭 I’m currently working on **deliberAIde**: https://github.com/saaltrecker/deliberAIde
-
-- 🌱 I’m currently learning **react.js and SQL**, while further developing my **python** skills.
+- 🌱 I’m currently learning **react.js**, while further developing my **python** skills.
 
 - 👯 I’m looking to collaborate on **projects concerning data, web development, and social or individual good.**
 
