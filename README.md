@@ -1,9 +1,7 @@
 # colmofu
 
 <h1 align="center">Hi 👋, I'm Colm</h1>
-<h3 align="center">A data scientist in Berlin</h3>
-
-- 🌱 I’m currently learning **react.js**, while further developing my **python** skills.
+<h3 align="center">A backend developer based in Berlin</h3>
 
 - 👯 I’m looking to collaborate on **projects concerning data, web development, and social or individual good.**
 
